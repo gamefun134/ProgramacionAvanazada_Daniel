@@ -1,0 +1,9 @@
+nombre: Daniel
+apellido: Gonzalez
+edad: 17
+nombre: Andres
+apellido: Perez
+edad: 18
+nombre: Libia
+apellido: Martinez
+edad: 17
