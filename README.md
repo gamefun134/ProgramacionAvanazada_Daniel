@@ -23,7 +23,7 @@ Aqui abajo te menciono los que encontraras
 
 * Encontraras distintos ejercicios que se fueron haciendo a lo largo del semetre
 * Encontraras ejercicios de punteros, archivos de texto en c++, uso de las variables, entre otros
-![Build Status](https://styles.redditmedia.com/t5_2qi27/styles/communityIcon_c6mtvgj38ki31.jpg)]https://github.com/gamefun134/ProgramacionAvanazada_Daniel/tree/main/c%2B%2Bl)
+![Build Status](https://styles.redditmedia.com/t5_2qi27/styles/communityIcon_c6mtvgj38ki31.jpg)][https://github.com/gamefun134/ProgramacionAvanazada_Daniel/tree/main/c%2B%2Bl](https://github.com/gamefun134/ProgramacionAvanazada_Daniel/tree/main/c%2B%2B))
 * Oprime la imagen de abajo para acceder a los archivos c+
 
 ## Que encontraras en Java?
