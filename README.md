@@ -28,7 +28,7 @@ Aqui abajo te menciono los que encontraras
 
 ## Que encontraras en Java?
 
-* Encontraras distintos ejercicios de java que se hicieron en los ultimos 2 cortes
+* Encontraras distintos ejercicios de java que se hicieron en los ultimos 2 cortes como tambien talleres y el parcial 3 resuelto
 * Dentro de la carpeta encontraras ejercicios de los 4 pilares de la programacion orientada a objetos (POO)
 
 ## _Cuales son estos 4 pilares?_
